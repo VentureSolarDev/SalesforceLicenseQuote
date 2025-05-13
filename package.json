@@ -2,7 +2,7 @@
   "name": "salesforce-quote",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://VentureSolarDev.github.io/salesforce-quote",
+  "homepage": "https://VentureSolarDev.github.io/SalesforceLicenseQuote",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",

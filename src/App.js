@@ -1,5 +1,5 @@
 import './App.css';
-import SalesforceQuoteGenerator from './SalesforceQuoteGenerator';
+import SalesforceQuoteGenerator from './SalesforceQuoteGenerator.tsx';
 
 function App() {
   return (
