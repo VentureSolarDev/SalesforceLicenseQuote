@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SalesforceLicenseQuote/static/css/main.f855e6bc.css",
+    "main.js": "/SalesforceLicenseQuote/static/js/main.a516dba3.js",
+    "static/js/453.003e9009.chunk.js": "/SalesforceLicenseQuote/static/js/453.003e9009.chunk.js",
+    "index.html": "/SalesforceLicenseQuote/index.html",
+    "main.f855e6bc.css.map": "/SalesforceLicenseQuote/static/css/main.f855e6bc.css.map",
+    "main.a516dba3.js.map": "/SalesforceLicenseQuote/static/js/main.a516dba3.js.map",
+    "453.003e9009.chunk.js.map": "/SalesforceLicenseQuote/static/js/453.003e9009.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.a516dba3.js"
+  ]
+}
